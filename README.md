@@ -1,6 +1,6 @@
 # Clone-OpenOCRCorrect
 
-Clone of OpenOCRCorrect application with the implementation of bold/unbold, superscript and subscript feature.
+Clone of OpenOCRCorrect application with the implementation of bold/unbold, superscript and subscript features.
 
 
 # How to run the Code?
