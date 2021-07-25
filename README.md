@@ -1,5 +1,8 @@
 # Clone-OpenOCRCorrect
 
+Clone of OpenOCRCorrect application with the implementation of bold/unbold, superscript and subscript feature.
+
+
 # How to run the Code?
 
 1. Add the Shobhika Font to Ubuntu from https://github.com/Sandhi-IITBombay/Shobhika/releases/ for reading Devanagari:
